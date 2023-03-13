@@ -1,0 +1,13 @@
+.chores {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+    color: blueviolet;
+}
+h3 {
+    text-decoration: underline;
+
+}
+
+li {
+   font-style: italic;
+}
